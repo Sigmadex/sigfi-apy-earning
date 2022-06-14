@@ -9,3 +9,14 @@ This application works in conjunction with an APY NFT and locks up SDEX or SDEX 
 **Distribution of penalized assets will be handled in 2 different ways:**
 * SDEX will be forwarded to a multi-sig contract for removal of token circulation
 * SDEX LP will be forwarded to `0x0000000000000000000000000000000000000000`
+
+## Reward Rates
+
+<div align="center">
+
+|type|rate|
+|----|----|
+|SDEX|APY from NFT|
+|SDEX LP|APY from NFT + LP Bonus|
+  
+</div>
