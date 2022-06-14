@@ -20,3 +20,14 @@ This application works in conjunction with an APY NFT and locks up SDEX or SDEX 
 |SDEX LP|APY from NFT + LP Bonus|
   
 </div>
+
+## Penalty Rates
+
+<div align="center">
+
+|type|rate|
+|----|----|
+|SDEX|50% + NFT forefeit|
+|SDEX LP|25%|
+  
+</div>
