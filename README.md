@@ -10,7 +10,11 @@ This application works in conjunction with an APY NFT and locks up SDEX or SDEX 
 * SDEX will be forwarded to a multi-sig contract for removal of token circulation
 * SDEX LP will be forwarded to `0x0000000000000000000000000000000000000000`
 
-## Reward Rates
+## Variable Rates
+
+*Parameters are subject to change*
+
+### Reward Rates
 
 <div align="center">
 
@@ -21,7 +25,7 @@ This application works in conjunction with an APY NFT and locks up SDEX or SDEX 
   
 </div>
 
-## Penalty Rates
+### Penalty Rates
 
 <div align="center">
 
@@ -31,3 +35,4 @@ This application works in conjunction with an APY NFT and locks up SDEX or SDEX 
 |SDEX LP|25%|
   
 </div>
+
