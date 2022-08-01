@@ -36,3 +36,6 @@ This application works in conjunction with an APY NFT and locks up SDEX or SDEX 
   
 </div>
 
+### Required Functions
+
+Will require access to SDEX minting function.
